@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maomincoding)](https://github.com/anuraghazra/github-readme-stats)
+### Hi Strve.js
 
 <p align="center">
   <a href="https://github.com/maomincoding/strve" target="_blank" rel="noopener noreferrer">
@@ -12,6 +10,7 @@
   <a href="https://npmjs.com/package/strvejs"><img src="https://badgen.net/npm/v/strvejs" alt="npm package"></a>
 </p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maomincoding)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **maomincoding/maomincoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
