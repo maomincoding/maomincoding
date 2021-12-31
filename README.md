@@ -12,6 +12,6 @@
 <p align="center">
   🦅A JS library that can convert strings into view.
 </p>
-<p align="center">https://maomincoding.github.io/strvejs-doc</p>
+<p align="center">👉 Doc: https://maomincoding.github.io/strvejs-doc</p>
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maomincoding)](https://github.com/anuraghazra/github-readme-stats)-->
 
