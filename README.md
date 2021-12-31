@@ -1,4 +1,4 @@
-## Hello Strve.js
+## Strve.js
 
 <p align="center">
   <a href="https://github.com/maomincoding/strve" target="_blank" rel="noopener noreferrer">
