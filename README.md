@@ -10,6 +10,9 @@
   <a href="https://npmjs.com/package/strvejs"><img src="https://badgen.net/npm/v/strvejs" alt="npm package"></a>
 </p>
 <p align="center">
+  <strong>Hello Strve.js!</strong>
+</p>
+<p align="center">
  A JS library that can convert strings into view
 </p>
 <p align="center">👉 Doc: https://maomincoding.github.io/strvejs-doc</p>
