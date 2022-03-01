@@ -1,4 +1,4 @@
-## Strve.js
+## Hello Strve.js
 
 <p align="center">
   <a href="https://github.com/maomincoding/strve" target="_blank" rel="noopener noreferrer">
@@ -8,9 +8,6 @@
 <br/>
 <p align="center">
   <a href="https://npmjs.com/package/strvejs"><img src="https://badgen.net/npm/v/strvejs" alt="npm package"></a>
-</p>
-<p align="center">
-  <strong>Hello Strve.js!</strong>
 </p>
 <p align="center">
  A JS library that can convert strings into view
