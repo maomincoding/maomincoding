@@ -3,8 +3,8 @@
 <p align="center">
   <img src="./logo.png" alt="Mettle logo">
   <br/><br/>
-  <b>Mettle</b> is a approachable, fast, flexible and lightweight JavaScript library for building user interfaces. &mdash;
+  <b>Mettle</b> is a approachable, fast, flexible and lightweight JavaScript library for building user interfaces.
   <br/>
-  building user interfaces.
+  Building user interfaces.
   <br/><br/>
 </p>
