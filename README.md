@@ -5,6 +5,4 @@
   <br/><br/>
   <b>Mettle</b> is a approachable, fast, flexible and lightweight JavaScript library for building user interfaces.
   <br/>
-  Building user interfaces.
-  <br/><br/>
 </p>
