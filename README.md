@@ -1,15 +1,10 @@
-<h1 align="center">Welcome to the <span class="red">Mettle</span> community!</h1>
+<h1 align="center">Welcome to the <span>Mettle</span> community!</h1>
 <br/>
 <p align="center">
   <img src="./logo.png" alt="Mettle logo">
   <br/><br/>
-  <b>Solid</b> is a simple and performant reactive library &mdash;
+  <b>Mettle</b> is a approachable, fast, flexible and lightweight JavaScript library for building user interfaces. &mdash;
   <br/>
-  build powerful and scalable user interfaces.
+  building user interfaces.
   <br/><br/>
 </p>
-<style>
-.red{
-  color:red;
-}
-</style>
