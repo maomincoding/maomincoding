@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the <span style="color:#6c2de4">Mettle</span> community!</h1>
+<h1 align="center">Welcome to the <span class="red">Mettle</span> community!</h1>
 <br/>
 <p align="center">
   <img src="./logo.png" alt="Mettle logo">
@@ -8,3 +8,8 @@
   build powerful and scalable user interfaces.
   <br/><br/>
 </p>
+<style>
+.red{
+  color:red;
+}
+</style>
