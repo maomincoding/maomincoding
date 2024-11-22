@@ -5,4 +5,5 @@
   <br/><br/>
   <b>Mettle</b> is a approachable, fast, flexible and lightweight JavaScript library for building user interfaces.
   <br/>
+  <a href="https://maomincoding.github.io/mettle-doc/">https://maomincoding.github.io/mettle-doc/</a>
 </p>
