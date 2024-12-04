@@ -18,3 +18,9 @@
 8. [mettle-doc](https://github.com/maomincoding/mettle-doc) - Documentation for mettle.js.
 9. [mettle-examples](https://github.com/maomincoding/mettle-examples) - These are some examples about mettle.js.
 10. [mettle-web-components-examples](https://github.com/maomincoding/mettle-web-components-examples) - This is an example of using mettle-web-components.
+
+*** 
+
+Mettle is currently under my personal code repository instead of an organization, because I want to do it well first, and then consider transferring it to an organization when the community is large.
+
+Welcome friends to join us!
