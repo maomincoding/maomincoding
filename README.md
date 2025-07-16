@@ -20,7 +20,7 @@
 10. [mettle-web-components-examples](https://github.com/maomincoding/mettle-web-components-examples) - This is an example of using mettle-web-components.
 11. [babel-preset-mettle](https://github.com/maomincoding/babel-preset-mettle) - Babel preset to transform JSX for Mettle.js.
 12. [vite-plugin-mettle](https://github.com/maomincoding/vite-plugin-mettle) - Mettle.js integration plugin for vite.
-13. [mettle-jsx-runtime](https://github.com/maomincoding/mettle-jsx-runtime) - Runtime library for compiling jsx templates for mettle..
+13. [mettle-jsx-runtime](https://github.com/maomincoding/mettle-jsx-runtime) - Runtime library for compiling jsx templates for mettle.
 *** 
 
 Mettle is currently under my personal code repository instead of an organization, because I want to do it well first, and then consider transferring it to an organization when the community is large.
