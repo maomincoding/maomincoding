@@ -12,9 +12,9 @@
 2. [mettle-router](https://github.com/maomincoding/mettle-router) - The official router for mettle.js.
 3. [create-mettle-app](https://github.com/maomincoding/create-mettle-app) - A set of fast building mettle.js project command line tool.
 4. [mettle-doc](https://github.com/maomincoding/mettle-doc) - Documentation for mettle.js.
-5. [babel-preset-mettle](https://github.com/maomincoding/babel-preset-mettle) - Babel preset to transform JSX for Mettle.js.
+5. [mettle-jsx-runtime](https://github.com/maomincoding/mettle-jsx-runtime) - Runtime library for compiling jsx templates for mettle.
 6. [vite-plugin-mettle](https://github.com/maomincoding/vite-plugin-mettle) - Mettle.js integration plugin for vite.
-7. [mettle-jsx-runtime](https://github.com/maomincoding/mettle-jsx-runtime) - Runtime library for compiling jsx templates for mettle.
+7. [babel-preset-mettle](https://github.com/maomincoding/babel-preset-mettle) - Babel preset to transform JSX for Mettle.js.
 8. [babel-plugin-mettle-html](https://github.com/maomincoding/babel-plugin-mettle-html) - A Babel plugin that compiles the template string in mettle.js into a normal object.
 
 ......
