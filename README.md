@@ -16,6 +16,7 @@
 6. [vite-plugin-mettle](https://github.com/maomincoding/vite-plugin-mettle) - Mettle.js integration plugin for vite.
 7. [babel-preset-mettle](https://github.com/maomincoding/babel-preset-mettle) - Babel preset to transform JSX for Mettle.js.
 8. [babel-plugin-mettle-html](https://github.com/maomincoding/babel-plugin-mettle-html) - A Babel plugin that compiles the template string in mettle.js into a normal object.
+9. [babel-plugin-mettle](https://github.com/maomincoding/babel-plugin-mettle) - A babel plugin for mettle.js.
 
 ......
 *** 
