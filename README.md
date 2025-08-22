@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://maomincoding.github.io/mettle-doc/logo.png" alt="Mettle logo" width="160">
   <br/><br/>
-  <b>Mettle</b> is a approachable, fast, flexible and lightweight JavaScript library for building user interfaces.
+  <b>Mettle</b> is a approachable, fast, flexible JavaScript library for building user interfaces.
   <br/>
   <a href="https://maomincoding.github.io/mettle-doc/">https://maomincoding.github.io/mettle-doc/</a>
 </p>
