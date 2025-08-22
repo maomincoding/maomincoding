@@ -8,7 +8,7 @@
   <a href="https://maomincoding.github.io/mettle-doc/">https://maomincoding.github.io/mettle-doc/</a>
 </p>
 
-1. [mettle](https://github.com/maomincoding/mettle) - A approachable, fast, flexible and lightweight JavaScript library for building user interfaces.
+1. [mettle](https://github.com/maomincoding/mettle) - A approachable, fast, flexible JavaScript library for building user interfaces.
 2. [mettle-router](https://github.com/maomincoding/mettle-router) - The official router for mettle.js.
 3. [create-mettle-app](https://github.com/maomincoding/create-mettle-app) - A set of fast building mettle.js project command line tool.
 4. [mettle-doc](https://github.com/maomincoding/mettle-doc) - Documentation for mettle.js.
